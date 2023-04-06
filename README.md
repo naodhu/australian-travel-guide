@@ -14,9 +14,9 @@ To use this travel guide the user must use the navbar located on the top of the 
 
 ## Credits
 
-[Dylan Pham] (https://github.com/dyalnpahm)
-[Andy Nguyen] (https://github.com/andynewen)
-[Naod Hunde] (https://github.com/naodhu)
+[Dylan Pham](https://github.com/dyalnpahm)
+[Andy Nguyen](https://github.com/andynewen)
+[Naod Hunde](https://github.com/naodhu)
 
 ## Licence
 
